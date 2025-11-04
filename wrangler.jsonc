@@ -17,5 +17,7 @@
   "ai": {
     "binding": "AI"
   },
-  "upload_source_maps": true
+  "upload_source_maps": true,
+  "logpush": true
+}
 }
